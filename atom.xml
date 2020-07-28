@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanplus.github.io</id>
     <title>Plus</title>
-    <updated>2020-07-28T13:14:19.919Z</updated>
+    <updated>2020-07-28T13:24:51.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanplus.github.io"/>
     <link rel="self" href="https://quanplus.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://quanplus.github.io/images/avatar.png</logo>
     <icon>https://quanplus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plus</rights>
+    <entry>
+        <title type="html"><![CDATA[New Blog！]]></title>
+        <id>https://quanplus.github.io/post/new-blog/</id>
+        <link href="https://quanplus.github.io/post/new-blog/">
+        </link>
+        <updated>2020-07-28T13:17:24.000Z</updated>
+        <content type="html"><![CDATA[<p>为了方便，将博客托管在GitHub。</p>
+<p>采用的程序为Gridea，主题是breek。</p>
+<p>整体蛮不错的，感觉扩展性差了一点，比较适合于博客站点。</p>
+<p>除了个人博客，其他站点还是老老实实使用WordPress吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://quanplus.github.io/post/hello-gridea/</id>
