@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanplus.github.io</id>
     <title>Plus</title>
-    <updated>2020-07-28T13:30:21.587Z</updated>
+    <updated>2020-07-29T13:36:40.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanplus.github.io"/>
     <link rel="self" href="https://quanplus.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://quanplus.github.io/images/avatar.png</logo>
     <icon>https://quanplus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plus</rights>
+    <entry>
+        <title type="html"><![CDATA[New Job!]]></title>
+        <id>https://quanplus.github.io/post/new-job/</id>
+        <link href="https://quanplus.github.io/post/new-job/">
+        </link>
+        <updated>2020-07-29T12:44:24.000Z</updated>
+        <content type="html"><![CDATA[<p>老标题党了。准确来定标题的话应该叫The first Job！</p>
+<p>工作名：<strong>社会工作局见习</strong>，看名字应该是和社会工作局有关，但是好像没有半毛钱关系。昨天应隔壁阿姨邀请，提交了一下资料，简历啥的。今天下午政审，面试，差点直接上岗。🤣</p>
+<p>PS：<strong>据说</strong>，除了我，其他人都被Pass了。</p>
+<p>明天上午八点去社区报道。为什么要去社区报道?所长想把我留下来，但是社区有两名额，这边社区把我要走了。但是可以调动，去统计局之类的。</p>
+<p>末了，所长让我明天带个被子。咳咳，杯子。养老，养生？</p>
+<p>薪资嘛，<font color="#FF0000">2K</font>。可以说很NICE了，2020上半年账单支出50K左右。</p>
+<p>回到The first job！这确确实实是我第一个工作，感谢国家给我安排上了！</p>
+<p>之前都是Freeman，不算正式工作，然后在老头子的超市做运营主管。</p>
+<p>以后很多Plan可能要暂停了，继续的项目大概就剩Plan4了，也许要开启公益项目了。</p>
+<p>安安静静的在社区养老吧。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Blog！]]></title>
         <id>https://quanplus.github.io/post/new-blog/</id>
