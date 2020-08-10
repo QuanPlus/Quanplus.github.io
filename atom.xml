@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanplus.github.io</id>
     <title>Plus</title>
-    <updated>2020-08-04T13:30:03.159Z</updated>
+    <updated>2020-08-10T15:21:14.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanplus.github.io"/>
     <link rel="self" href="https://quanplus.github.io/atom.xml"/>
@@ -10,21 +10,6 @@
     <logo>https://quanplus.github.io/images/avatar.png</logo>
     <icon>https://quanplus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plus</rights>
-    <entry>
-        <title type="html"><![CDATA[舍与得！]]></title>
-        <id>https://quanplus.github.io/post/she-yu-de/</id>
-        <link href="https://quanplus.github.io/post/she-yu-de/">
-        </link>
-        <updated>2020-08-04T12:48:54.000Z</updated>
-        <content type="html"><![CDATA[<p>今天下午本来是要注册公司的，但是想了很久，决定放弃。</p>
-<p>同时放弃Plan4等项目，仅保留Plan3。</p>
-<p>原因很简单，我并不快乐，只是从中得到了快感和虚荣罢了。很累，未工作前每天十五个小时都用于多个项目。工作以后，每天除了六个多小时的工作时间，其他的时间也都留给了项目。</p>
-<p>放弃这二字对于我来说过于沉重，意味着以前投入的时间，精力和金钱全部化为乌有。但是放弃也意味着摆脱了沉重的镣铐，有更多的发挥空间。</p>
-<p>Plan3月流量百万级，这是我将要做的。</p>
-<p>至少要快乐，这是我所想的。</p>
-<p>黄沙百战穿金甲，不破楼兰终不还。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[锚]]></title>
         <id>https://quanplus.github.io/post/mao/</id>
