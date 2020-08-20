@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanplus.github.io</id>
     <title>Plus</title>
-    <updated>2020-08-16T03:54:49.776Z</updated>
+    <updated>2020-08-20T15:06:15.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanplus.github.io"/>
     <link rel="self" href="https://quanplus.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://quanplus.github.io/images/avatar.png</logo>
     <icon>https://quanplus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plus</rights>
+    <entry>
+        <title type="html"><![CDATA[睡眠不足]]></title>
+        <id>https://quanplus.github.io/post/shui-mian-bu-zu/</id>
+        <link href="https://quanplus.github.io/post/shui-mian-bu-zu/">
+        </link>
+        <updated>2020-08-20T14:21:16.000Z</updated>
+        <content type="html"><![CDATA[<p>昨天恶补了一觉，近十个小时，精神要好上许多。</p>
+<p>自从工作以来，每天只能睡六个小时多一点。虽说每天八点上班五点半下班，但是晚上一点左右才能睡觉，睡眠是远远不足的。</p>
+<p>领导们倒是“偏爱”，着实交给了我不少事情。给所长帮忙，给主任帮忙，给局长帮忙，给社保局帮忙，给社区帮忙，给经发局帮忙，给各个部门帮忙。综合部门可真是够综合的呢！</p>
+<p>今天配合经发局的主任去企业弄健康码事宜，享受了一下“特殊”的待遇。企业老总给倒茶，飘了~</p>
+<p>顺便一提，银行账户退款说要十天到账，8月19号查了一下账户，发现8月18号就到了。哭辽，八月十八号也没能注册公司。🤒</p>
+<p>难不成我真的不适合当公司老板？不过注册公司的事情还会再试一次，也是（今年）最后一次了。</p>
+<p>最近好多服务器都过期了，项目也没管过了，一天到晚的都能收到续费邮件。无力去弄项目了，累得不行。身体为主，其他的慢慢来吧！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工作调动]]></title>
         <id>https://quanplus.github.io/post/gong-zuo-diao-dong/</id>
