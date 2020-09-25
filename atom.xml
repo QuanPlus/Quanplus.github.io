@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanplus.github.io</id>
     <title>Plus</title>
-    <updated>2020-09-01T04:54:37.835Z</updated>
+    <updated>2020-09-25T15:55:10.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanplus.github.io"/>
     <link rel="self" href="https://quanplus.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://quanplus.github.io/images/avatar.png</logo>
     <icon>https://quanplus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plus</rights>
+    <entry>
+        <title type="html"><![CDATA[2020年碎片]]></title>
+        <id>https://quanplus.github.io/post/2020-nian-sui-pian/</id>
+        <link href="https://quanplus.github.io/post/2020-nian-sui-pian/">
+        </link>
+        <updated>2020-09-20T16:42:13.000Z</updated>
+        <content type="html"><![CDATA[<p>有那么一会儿仿佛超脱一切，灵魂脱离了躯体，脑海中闪现过无数场景。那一刻，没有了情感，只剩下冷漠，世间的万物已与我无关。</p>
+<p>原来这个世界上真的会有抓紧你衣服的女孩子。可是你太优秀了，我懂的。</p>
+<p>遇见你时，我非我，我需要冷静。不要和我打招呼了，也不要对我微笑了，让我继续堕入黑暗吧。</p>
+<p>无边的黑暗中偶尔会出现一丝光明，就是这该死的光明给予了虚假的希望。真的输不起了，抱歉。</p>
+<p>黑暗是归宿。</p>
+<p>我真的到了别人叫我叔叔的年纪吗？“我还年轻！”这是错觉！</p>
+<p>Larg。</p>
+<p>未来即是过去，一切早已注定。</p>
+<p>咸鱼们当然不会知道成千上万的咸鱼中总有那么一两条咸水鳄。</p>
+<p>在迷茫中蛰伏。</p>
+<p>每天不到六个半小时的睡眠，眼中的血丝划过了瞳孔。</p>
+<p>尝试用左手办公，右手的关节实在疼的很。</p>
+<p>你送的两株多肉都死了，很抱歉。</p>
+<p>打开抽屉，里面装满了空烟盒。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无题]]></title>
         <id>https://quanplus.github.io/post/wu-ti/</id>
