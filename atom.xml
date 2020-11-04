@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://quanplus.github.io</id>
     <title>Plus</title>
-    <updated>2020-10-29T16:56:10.155Z</updated>
+    <updated>2020-11-04T16:45:50.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://quanplus.github.io"/>
     <link rel="self" href="https://quanplus.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://quanplus.github.io/images/avatar.png</logo>
     <icon>https://quanplus.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Plus</rights>
+    <entry>
+        <title type="html"><![CDATA[20年11月]]></title>
+        <id>https://quanplus.github.io/post/20-nian-11-yue/</id>
+        <link href="https://quanplus.github.io/post/20-nian-11-yue/">
+        </link>
+        <updated>2020-11-04T16:35:33.000Z</updated>
+        <content type="html"><![CDATA[<p>个性签名whatever改成了miss。</p>
+<p>消息来的毫无防备，虽然我知道总会有这一天的。</p>
+<p>祝前程似锦！</p>
+<p>我也要好好考虑离职的事情了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20年10月的尾巴]]></title>
         <id>https://quanplus.github.io/post/20-nian-de-che/</id>
